@@ -26,6 +26,10 @@ const theme = createTheme({
       default: "rgba(215, 226, 255, 0.3)",
       paper: "#FFFFFF",
     },
+    text: {
+      secondary: "#515F7A",
+    },
+    divider: "#E6E8EB",
   },
   components: {
     MuiButton: {

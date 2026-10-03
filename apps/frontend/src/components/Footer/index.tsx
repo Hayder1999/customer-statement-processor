@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <footer>
       <Paper>
-        <Container maxWidth="md" sx={{ py: 4, color: "#515F7A" }}>
+        <Container maxWidth="md" sx={{ py: 4, color: "text.secondary" }}>
           <Stack
             direction={{ xs: "column", md: "row" }}
             spacing={4}
